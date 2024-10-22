@@ -1,0 +1,48 @@
+/* Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #E9EEF2; /* Tertiary color */
+    color: #1C3F60; /* Primary color */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container Styling */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+h1 {
+    color: #1C3F60; /* Primary color */
+    text-align: center;
+}
+
+h2 {
+    color: #1C3F60; /* Primary color */
+    margin-top: 20px;
+}
+
+/* Links */
+a {
+    color: #AFC1D0; /* Secondary color */
+    text-decoration: none;
+}
+
+/* Unordered List */
+ul {
+    margin: 10px 0;
+    padding-left: 20px;
+    color: #828282; /* Secondary font color */
+}
+
+ul ul {
+    margin: 10px 0;
+    padding-left: 20px;
+    color: #828282; /* Secondary font color */
+}
