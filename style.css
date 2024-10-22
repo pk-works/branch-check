@@ -30,8 +30,12 @@ h2 {
 
 /* Links */
 a {
-    color: #AFC1D0; /* Secondary color */
+    color: #1C3F60; /* Secondary color */
     text-decoration: none;
+}
+
+p{
+    color: #828282;
 }
 
 /* Unordered List */
